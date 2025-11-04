@@ -1,10 +1,12 @@
+  <img width="1919" height="1138" alt="SOAL3_Matriks" src="https://github.com/user-attachments/assets/b6fb7dad-508f-4ff0-aa87-467cca4caf1d" />
 # LatihanUKL-SoalSulitNo2-Matriks-AzkyaRahma-XRPL2
 Program menjumlahkan dua matriks. User memasukkan ukuran dan elemen tiap matriks, program menjumlahkan elemen yang bersesuaian dan menampilkan matriks hasil.
 
 
     import java.util.Scanner;
     public class SOAL3_Matriks {
-   
+
+
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
